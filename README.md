@@ -15,7 +15,7 @@ It’s meant as a frame of reference and a starting point for discussions. Hopef
 
 Inevitably, I will sometimes fail to live up to my own ideals. I will always try, and they are here so you can hold me accountable. If you’re not a fan of manuals, that’s fine too, we can figure things out as we go.
 
-This is a living document, incomplete and imperfect. I will update it regularly and would [appreciate your feedback](contact@see-docs.com)
+This is a living document, incomplete and imperfect. I will update it regularly and would [appreciate your feedback](mailto:contact@see-docs.com)
 
 
 ## My premises
@@ -150,5 +150,5 @@ Hello, nice to meet you. I'm <b>Patrick Biyaga</b>. I’m a Cybersecurity and Ne
 
 [@patrickbiyaga](https://twitter.com/patrickbiyaga)
 
-[contact@see-docs.com](contact@see-docs.com)
+[contact@see-docs.com](mailto:contact@see-docs.com)
 
